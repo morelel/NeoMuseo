@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NeoMuseo</string>
+    <string name="title_home">NéoMuseo</string>
+    <string name="title_dashboard">Appareil photo</string>
+    <string name="title_notifications">Collection</string>
+    <string name="Welcome">Bienvenue</string>
+    <string name="Confluence">Le musée Confluence</string>
+    <string name="text_welcome">Vous invite à vivre une expèrience unique</string>
+    <string name="start">Commencer</string>
+</resources>
